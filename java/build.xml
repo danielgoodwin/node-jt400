@@ -5,6 +5,7 @@
 			<include name="json-simple-1.1.1.jar"/>
 			<include name="hsqldb.jar"/>
 			<include name="jt400.jar"/>
+			<include name="jtopenlite.jar"/>
 		</fileset>
 	</path>
 	<target name="clean">
